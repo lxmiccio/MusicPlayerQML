@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AlbumCover.qml</file>
+        <file>AlbumGrid.qml</file>
+        <file>ScrollBar.qml</file>
+    </qresource>
+</RCC>
